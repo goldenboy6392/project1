@@ -1,0 +1,43 @@
+body{
+	background-color: #d3d3d3;
+}
+.heading h1{
+	font-size: 4em;
+	text-align: center;
+}
+.heading h2{
+	float:all;
+	font-size: 2em;
+	text-indent: 15%;
+}
+small{
+	float:right;
+	text-align: right;
+	padding-right: 15%;
+
+}
+.me{
+    display: block;
+    margin:auto auto;
+    clear:all;
+}
+
+#body{
+	text-align: center;
+	padding-top: 2em;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.project{
+	font-size: 1.5em;
+}
+
+footer{
+	padding-top: 0.5em;
+	font-size: smaller;
+	text-align: center;
+}
